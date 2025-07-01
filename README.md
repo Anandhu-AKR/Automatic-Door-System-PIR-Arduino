@@ -99,7 +99,7 @@ void loop() {
 }
 ```
 ## 📄 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it for any purpose, with proper attribution.
+This project is licensed under the MIT License. You are free to use, modify, and distribute it for any purpose, with proper attribution.
 
 ## ✅ Repository Contents
 ```plaintext
