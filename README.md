@@ -97,7 +97,7 @@ void loop() {
 
   delay(50);
 }
-
+```
 ## 📄 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it for any purpose, with proper attribution.
 
